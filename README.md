@@ -1,4 +1,4 @@
-# DisentanglingInfluence
+# Disentangling Influence
 
 This repository contains the code from our [2019 paper](https://arxiv.org/abs/1906.08652) on indirect influence audits. We leverage disentangled representations to capture indirect influence on both individual and aggregate model predictions. Please see our paper for an explanation of our methods.
 
